@@ -1,0 +1,15 @@
+
+# 2023-05-16 01:13:20.795176
++use warehose account;
+
+# 2023-05-16 01:14:05.431567
++use database my_lead;
+
+# 2023-05-16 01:15:04.756291
++use schema lead_schema;
+
+# 2023-05-16 01:20:27.148457
++use warehose compute_wh;
+
+# 2023-05-16 01:22:14.063533
++use warehouse compute_wh;
